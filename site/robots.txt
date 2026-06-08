@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mizcausevic-dev.github.io/sigma-bi-adoption-map/sitemap.xml
